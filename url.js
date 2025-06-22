@@ -8,7 +8,6 @@
 
 
 const urls = [
-	'https://hhming.moe',
-	'https://github.com/hms5232',
-	'https://gitlab.com/hms5232',
+	'https://piaopiaoen.limesurvey.net/424479',
+	'https://piaopiaoen.limesurvey.net/926792',
 ];
